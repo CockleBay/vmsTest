@@ -1,3 +1,3 @@
-const name = "小小"
-const web = "xxx.com"
-let address = "xxx road"
+let n=2
+let y= 3
+let z=5
