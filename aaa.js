@@ -1,2 +1,2 @@
-const aaa = 111
-const apple =54332
+const aaa = AAA;
+const apple = 54332;
