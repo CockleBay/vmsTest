@@ -1,1 +1,1 @@
-const ccc = 666
+const ccc = ccc;
