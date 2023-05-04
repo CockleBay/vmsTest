@@ -1,2 +1,2 @@
-const aaa = AAA;
+const aaa = "aaa";
 const apple = 54332;
