@@ -1,1 +1,1 @@
-const bbb = BBB;
+const bbb = "BBB0504";
